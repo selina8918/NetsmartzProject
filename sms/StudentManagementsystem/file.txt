@@ -1,0 +1,6 @@
+Student[ id=2,name=deepika, rollno=23,email=dee@gmail.com]
+Student[ id=3,name=krista, rollno=21,email=kri@gmail.com]
+Student[ id=4,name=sheetal, rollno=24,email=shee@gmail.com]
+Student[ id=5,name=swkrity, rollno=25,email=swk@gmail.com]
+Student[ id=6,name=shreshth, rollno=29,email=shre@gmail.com]
+Student[ id=7,name=nunu, rollno=10,email=nun@gmail.com]
